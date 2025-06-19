@@ -1,62 +1,44 @@
-<h1 align="center">Hi there 👋, I'm Sherif Elkady</h1>
+# 👋 Hi, I'm Sherif Abdelrahman
 
-<p align="center">
-  🧑‍💻 Android Developer | 💡 Lifelong Learner | 🇪🇬 Based in Egypt
-</p>
+Welcome to my GitHub! I'm a passionate **Android Developer** with experience building fintech mobile applications using the latest technologies and clean architecture patterns.
 
----
+## 💼 About Me
 
-### 👨‍💻 About Me
+- 🔧 Currently working as an Android Developer at a **fintech company**
+- 💻 9+ months of professional experience in designing and developing Android applications
+- 🌐 Experienced in integrating APIs, managing UI/UX with **Jetpack Compose**, and using **Kotlin** as the main language
+- 📐 Focused on **Clean Architecture**, **MVI**, and modular codebases
+- 🔐 Strong attention to **security**, **performance**, and **scalability** in financial apps
 
-- 🎓 I'm a recent **Computer Science graduate**
-- 📱 I specialize in **Android Development** using **Kotlin**, **Java**, **Jetpack Compose**, and **Clean Architecture**
-- 💼 Currently enhancing my profile with intensive self-training and projects
-- 🔗 Actively building my **professional network** on LinkedIn  
-- 🌱 I’m currently learning **advanced architecture**, **MVI**, and **modular app design**
+## 🧠 Tech Stack
 
----
+- 📱 **Android SDK**, **Jetpack Compose**, **Material Design**
+- 🛠️ **Kotlin**, **Java**, **Coroutines**, **Flow**
+- 🏗️ **Room**, **Retrofit**, **Ktor**, **Dagger/Hilt**
+- 🧪 **JUnit**, **Mockito**, **UI Testing**
+- ☁️ Working knowledge of **Firebase**, **Git**, and **CI/CD**
 
-### 🛠️ Tech Stack
+## 📈 Currently Learning
 
-- **Languages:** Kotlin, Java, Dart, XML
-- **Frameworks:** Jetpack Compose, Android SDK, Flutter (basics)
-- **Architecture:** Clean Architecture, MVI, MVVM
-- **Tools:** Android Studio, Git, Gradle, Firebase
-- **Databases:** Room, SQLite
+- 🔄 Advanced Kotlin and Coroutines
+- 🧱 Jetpack Compose animations and performance optimization
+- 💡 Design Patterns and clean MVI architecture in real apps
 
----
+## 📫 Connect with Me
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherifElkady&show_icons=true&theme=radical" alt="Sherif's GitHub stats" />
-</p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sherif-abdulrahman-843ba3199)
+- 💻 [GitHub Repositories](https://github.com/sherifelkady70?tab=repositories)
 
 ---
 
-### 🔗 Let's Connect
+### 📌 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sherif-abdulrahman-843ba3199/)
-- 💌 Email: [your.email@example.com]
+Here are a few things I'm working on or have contributed to:
 
----
-
-### 📌 Projects I'm Proud Of
-
-- 🔐 **Payment App SDK (e-Khales)** – A secure and reusable SDK for financial transactions
-- 📚 **University Student Portal** – Built with clean architecture and MVI
-- 🛍️ **Cash Collection App** – Optimized UI and network performance using Retrofit + Kotlin Flows
+- 📲 **[Fintech Payment App]** - Secure, modern Android app for bill payments and inquiries.
+- 📦 **[Modular Utility SDK]** - A Kotlin SDK shared across multiple Android apps.
+- 🧪 **[Test Automation Setup]** - JUnit/Mockito integrated in a clean architecture template.
 
 ---
 
-### 📢 Recent Goals
-
-- 🚀 Grow my GitHub profile and open-source contributions
-- 🌍 Enter the freelancing world (PeoplePerHour, Fiverr)
-- 🧠 Practice English fluency and tech interviews
-- ✅ Reach 500+ meaningful LinkedIn connections
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+Thanks for visiting! Let's build something great together 🚀
