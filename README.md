@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sherif Abdelrahman
 
-I'm a passionate **Software Enginner and Android Developer** with experience building fintech mobile applications using the latest technologies and clean architecture patterns.
+I'm a passionate **Software Engineer and Android Developer** with experience building fintech mobile applications using the latest technologies and clean architecture patterns.
 
 ## 💼 About Me
 
