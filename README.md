@@ -1,28 +1,27 @@
 # 👋 Hi, I'm Sherif Abdelrahman
 
-Welcome to my GitHub! I'm a passionate **Android Developer** with experience building fintech mobile applications using the latest technologies and clean architecture patterns.
+I'm a passionate **Android Developer** with experience building fintech mobile applications using the latest technologies and clean architecture patterns.
 
 ## 💼 About Me
 
 - 🔧 Currently working as an Android Developer at a **fintech company**
 - 💻 9+ months of professional experience in designing and developing Android applications
 - 🌐 Experienced in integrating APIs, managing UI/UX with **Jetpack Compose**, and using **Kotlin** as the main language
-- 📐 Focused on **Clean Architecture**, **MVI**, and modular codebases
+- 📐 Focused on **Clean Architecture**, **Architecture Patterns**, and modular codebases
 - 🔐 Strong attention to **security**, **performance**, and **scalability** in financial apps
 
 ## 🧠 Tech Stack
 
-- 📱 **Android SDK**, **Jetpack Compose**, **Material Design**
+- 📱 **Android**, **Jetpack Compose**, **Material Design**
 - 🛠️ **Kotlin**, **Java**, **Coroutines**, **Flow**
 - 🏗️ **Room**, **Retrofit**, **Ktor**, **Dagger/Hilt**
-- 🧪 **JUnit**, **Mockito**, **UI Testing**
+- 🧪 **JUnit**, **Mockito**
 - ☁️ Working knowledge of **Firebase**, **Git**, and **CI/CD**
 
 ## 📈 Currently Learning
 
-- 🔄 Advanced Kotlin and Coroutines
-- 🧱 Jetpack Compose animations and performance optimization
-- 💡 Design Patterns and clean MVI architecture in real apps
+- Kotlin Multiplatform
+- More Advanced Android Development Topics
 
 ## 📫 Connect with Me
 
